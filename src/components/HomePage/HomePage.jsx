@@ -52,17 +52,11 @@ function HomePage(){
                 </a>
            </div>
 
-           <div className="homepage_right">
-        <motion.img
-               initial={{x:100, opacity:0}}
-               animate={{x:0, opacity:1}}
-               transition={{duration:1, delay:1}}
-          src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZxY2ZseWh2cDc4cno3ZTlpdm45a3JsbDZvMWttbG5kY3Vhb3FpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"
-          alt="GIF"
-        />
-      </div>
-    </div>
-  );
+           <div className='homepage_right'>
+                <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZxY2ZseWh2cDc4cno3ZTlpdm45a3JsbDZvMWttbG5kY3Vhb3FpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp' alt='GIF' />
+           </div>
+        </div>
+    )
 }
 
 export default HomePage;
