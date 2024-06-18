@@ -9,6 +9,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+
 ## Project Overview
 
 The Resume App is built using React and leverages Vite's fast-build tooling for efficient development. It incorporates the aforementioned Vite plugins to ensure a smooth development experience with Fast Refresh support.
