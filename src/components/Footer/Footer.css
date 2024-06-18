@@ -1,0 +1,15 @@
+.p1{
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.p1:hover{
+    transform: scale(0.75);
+}
